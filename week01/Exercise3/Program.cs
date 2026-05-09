@@ -3,8 +3,8 @@ using System;
 class Program
 {
     
-        static void main(string[] args)
-        {
+    static void Main(string[] args)
+    {
             Random randomgenerator = new Random();
             int magicnumber = randomgenerator.Next(1, 100);
 
@@ -27,7 +27,7 @@ class Program
                     Console.WriteLine("Congratulations! You guessed the magic number!");
                 }
             }
-        }
+     }
 }
 
 
