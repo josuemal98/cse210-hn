@@ -9,3 +9,4 @@
   </PropertyGroup>
 
 </Project>
+ // This is the project file for the Sandbox project. It specifies that the project is an executable and targets .NET 10.0. It also enables implicit usings and disables nullable reference types.
