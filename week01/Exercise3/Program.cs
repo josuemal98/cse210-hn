@@ -2,8 +2,7 @@ using System;
 
 class Program
 {
-    static void Main(string[] args)
-    {
+    
         static void main(string[] args)
         {
             Random randomgenerator = new Random();
@@ -29,5 +28,6 @@ class Program
                 }
             }
         }
-    }
 }
+
+
